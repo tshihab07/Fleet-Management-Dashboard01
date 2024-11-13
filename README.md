@@ -24,7 +24,7 @@ This Fleet Management Dashboard is a data-driven tool created in Power BI with P
 
 ## Tools
 
-**Power BI:** For creating interactive visualizations and dashboard layout.
+**Power BI:** For creating interactive visualizations and dashboard layouts.
 **Python:** Used for data processing and transformations before loading data into Power BI.
 **Excel:** Primary data source for the dashboard, containing fleet and driver information.
 
@@ -35,13 +35,13 @@ The data for this dashboard comes from the 2019 HSC rescrutiny results published
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/tshihab/Fleet-Management-Dashboardoard01.git
+    git clone https://github.com/tshihab/Fleet-Management-Dashboard01.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd Fleet-Management-Dashboardoard01
+    cd Fleet-Management-Dashboard01
     ```
     
 3. Python Script: Use Python scripts to preprocess the data in Excel (e.g., calculations, transformations) and save the processed data back to Excel, if applicable.
