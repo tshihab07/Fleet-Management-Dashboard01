@@ -1,0 +1,138 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Dim_Customers",
+          "nodeLineageTag": "4578018c-cfe3-4847-8a24-ab7b164ef89a",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 857.893081761006,
+            "y": 4.9999999999999982
+          },
+          "nodeIndex": "Dim_Drivers",
+          "nodeLineageTag": "88b86a8f-aaea-4b22-8485-e99c4ff35f51",
+          "size": {
+            "height": 138.01230027227962,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 330.88856013236409,
+            "y": 3.3333333333333357
+          },
+          "nodeIndex": "Dim_Vehicles",
+          "nodeLineageTag": "f915730a-48ee-413b-b9c6-037b3d320a45",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 734.11604270058513,
+            "y": 373.0318469887448
+          },
+          "nodeIndex": "FactTable_KMTraveled",
+          "nodeLineageTag": "9b668fb1-aaf5-41ec-af5e-8177badc7d08",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 158.97176024510452,
+            "y": 389.72257320562647
+          },
+          "nodeIndex": "FactTable_Freight",
+          "nodeLineageTag": "c47519fd-873e-478c-a7c1-6a43d617bb00",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1345.5691202580404,
+            "y": 0
+          },
+          "nodeIndex": "Measure",
+          "nodeLineageTag": "8a1b0f06-d346-4028-aa34-6f5f62cfb3bc",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 581.57849208840753,
+            "y": 0
+          },
+          "nodeIndex": "DateTable",
+          "nodeLineageTag": "a488361d-d9fd-4a3d-b26e-f997e52ec907",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1629.5691202580404,
+            "y": 268.86128660281327
+          },
+          "nodeIndex": "Switch Driver Measuers",
+          "nodeLineageTag": "f445e290-fcbc-433a-bf01-324b87e43ef5",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1913.5691202580404,
+            "y": 244.86128660281327
+          },
+          "nodeIndex": "Tooltip Measures",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 60,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
