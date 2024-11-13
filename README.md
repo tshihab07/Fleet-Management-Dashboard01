@@ -61,7 +61,3 @@ Contributions are welcome! Please feel free to submit a pull request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to the Education Board for providing the rescrutiny data and to all contributors to this project.
