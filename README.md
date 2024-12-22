@@ -50,9 +50,9 @@ The data for this dashboard comes from the 2019 HSC rescrutiny results published
 
 ## Usage
 
-  - Open the Power BI dashboard to view overall fleet metrics at a glance.
-  - Use the driver filter to drill down into individual driver metrics and assess performance.
-  - Analyze cost metrics to identify potential savings and optimize fleet costs.
+- Open the Power BI dashboard to view overall fleet metrics at a glance.
+- Use the driver filter to drill down into individual driver metrics and assess performance.
+- Analyze cost metrics to identify potential savings and optimize fleet costs.
 
 ## Contributing
 
