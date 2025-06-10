@@ -1,4 +1,4 @@
-# Fleet Management Dashboard
+# Fleet Management System Dashboard
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-This Fleet Management Dashboard is a data-driven tool created in Power BI with Python scripts and Excel data inputs. It provides an interactive way to monitor fleet performance metrics, driver insights, fuel efficiency, and cost analysis, helping fleet managers optimize operations and reduce costs.
+This Fleet Management System Dashboard is a data-driven tool created in Power BI with Python scripts and Excel data inputs. It provides an interactive way to monitor fleet performance metrics, driver insights, fuel efficiency, and cost analysis, helping fleet managers optimize operations and reduce costs.
 
 ## Features
 
@@ -27,8 +27,6 @@ This Fleet Management Dashboard is a data-driven tool created in Power BI with P
 **Power BI:** For creating interactive visualizations and dashboard layouts.
 **Python:** Used for data processing and transformations before loading data into Power BI.
 **Excel:** Primary data source for the dashboard, containing fleet and driver information.
-
-The data for this dashboard comes from the 2019 HSC rescrutiny results published by the Education Board of Bangladesh. This dataset includes information on students' previous and current grades across various subjects and groups.
 
 ## Installation
 
